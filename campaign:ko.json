@@ -1,0 +1,27 @@
+{
+    "enabled": true,
+    "display": {
+        "headerLabel": "{{MediaWiki:Mwe-upwiz-campaigns-ko/ko}}"
+    },
+    "autoAdd": {
+        "wikitext": "{{Uploaded from Korean Wikipedia}}"
+    },
+    "licensing": {
+        "ownWork": {
+            "licenses": [
+                "cc-by-sa-3.0",
+                "cc-by-sa-3.0-gfdl",
+                "cc-by-3.0",
+                "cc-zero",
+                "pd-old-100",
+                "pd-old",
+                "pd-ineligible",
+                "pd-textlogo",
+                "custom"
+            ]
+        }
+    },
+    "tutorial": {
+        "skip": false
+    }
+}
